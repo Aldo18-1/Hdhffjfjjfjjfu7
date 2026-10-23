@@ -1,0 +1,6 @@
+{
+  "name": "VoxelCraft 3D - Aventura y Construcción",
+  "description": "Juego 3D interactivo estilo Minecraft con generación procedural de mundos, minería, construcción, ciclo de día y noche, herramientas y física en primera persona.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
